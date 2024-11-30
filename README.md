@@ -16,3 +16,11 @@ Requirement Analysis is essential in the SDLC for the following reasons:
 - **Prevents Miscommunication:** Ensures that all stakeholders have a shared understanding of the project goals and requirements.
 - **Reduces Costs and Delays:** Identifies potential issues early in the development process, minimizing costly changes later.
 - **Ensures Quality:** Provides a clear roadmap for developers, testers, and designers to create a product that meets user expectations.
+
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering:** Collecting needs and expectations from stakeholders through interviews, surveys, and workshops.
+- **Requirement Elicitation:** Refining and elaborating on gathered requirements using techniques like brainstorming and prototyping.
+- **Requirement Documentation:** Creating detailed documents, including requirement specifications and use cases.
+- **Requirement Analysis and Modeling:** Structuring and modeling requirements to identify inconsistencies or gaps.
+- **Requirement Validation:** Reviewing and validating requirements with stakeholders to ensure accuracy and completeness.
