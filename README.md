@@ -24,3 +24,18 @@ Requirement Analysis is essential in the SDLC for the following reasons:
 - **Requirement Documentation:** Creating detailed documents, including requirement specifications and use cases.
 - **Requirement Analysis and Modeling:** Structuring and modeling requirements to identify inconsistencies or gaps.
 - **Requirement Validation:** Reviewing and validating requirements with stakeholders to ensure accuracy and completeness.
+
+
+## Types of Requirements
+
+### Functional Requirements
+These define what the system should do. Examples for the booking management system:
+- Users can search for available properties.
+- Users can book a property with specific dates.
+- The system sends email notifications after a booking.
+
+### Non-functional Requirements
+These define how the system performs tasks. Examples for the booking management system:
+- The system must handle 1000 concurrent users.
+- Page load time must not exceed 2 seconds.
+- All user data must be encrypted in transit and at rest.
