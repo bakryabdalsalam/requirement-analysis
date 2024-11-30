@@ -39,3 +39,10 @@ These define how the system performs tasks. Examples for the booking management 
 - The system must handle 1000 concurrent users.
 - Page load time must not exceed 2 seconds.
 - All user data must be encrypted in transit and at rest.
+
+
+## Use Case Diagrams
+
+Use Case Diagrams visually represent the interactions between system actors and use cases. They provide a clear understanding of system functionality and user interactions.
+
+![Use Case Diagram](alx-booking-uc.png)
